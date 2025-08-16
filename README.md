@@ -1,4 +1,5 @@
-## Hi there 👋
+---
+## Hey! | Oie!
 
 <!--
 **coelacvnt/coelacvnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> Estou atualmente cursando Ciências da Computação e tentar criar uma carreira.
+> I am currently studying computer science and I'm trying to build a career.
+
+>Já trabalhei na direção de imagem de uma emissora de TV.
+>I used to work as an imagem director in a TV station.
+
+>Minhas linguagens são C#, C++, hs e python.
+>My coding languages are C#, C++, js and python.
